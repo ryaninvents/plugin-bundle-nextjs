@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@ryaninvents/plugin-bundle-dependencies should create a zip file with correct structure 1`] = `
+Array [
+  ".next",
+  ".next/BUILD_ID",
+  ".next/build-manifest.json",
+  ".next/react-loadable-manifest.json",
+  ".next/records.json",
+  ".next/server",
+  ".next/static",
+  "index.js",
+  "package.json",
+  "pages",
+  "pages/index.js",
+]
+`;
